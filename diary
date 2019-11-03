@@ -1,0 +1,66 @@
+
+Info41 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+        RiseTime: 2.0914
+    SettlingTime: 4.8761
+     SettlingMin: 0.9041
+     SettlingMax: 1.0214
+       Overshoot: 2.1414
+      Undershoot: 0
+            Peak: 1.0214
+        PeakTime: 4.6052
+
+
+Info41_aprox = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+        RiseTime: 1.5195
+    SettlingTime: 4.2163
+     SettlingMin: 0.4517
+     SettlingMax: 0.5216
+       Overshoot: 4.3210
+      Undershoot: 0
+            Peak: 0.5216
+        PeakTime: 3.1315
+
+
+Info42 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+        RiseTime: 2.0914
+    SettlingTime: 4.8761
+     SettlingMin: 0.9041
+     SettlingMax: 1.0214
+       Overshoot: 2.1414
+      Undershoot: 0
+            Peak: 1.0214
+        PeakTime: 4.6052
+
+
+Info42_aprox = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+        RiseTime: 1.5195
+    SettlingTime: 4.2163
+     SettlingMin: 0.4517
+     SettlingMax: 0.5216
+       Overshoot: 4.3210
+      Undershoot: 0
+            Peak: 0.5216
+        PeakTime: 3.1315
+
+
+fazni_preskok =
+
+   61.5150
+
+
+d =
+
+   -0.0056
+
