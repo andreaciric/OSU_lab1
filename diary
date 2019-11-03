@@ -1,4 +1,18 @@
 
+Info = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+        RiseTime: 1.1239
+    SettlingTime: 3.7288
+     SettlingMin: 0.9073
+     SettlingMax: 1.0670
+       Overshoot: 6.7016
+      Undershoot: 0
+            Peak: 1.0670
+        PeakTime: 2.3486
+
+
 Info41 = 
 
   <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
@@ -62,5 +76,5 @@ fazni_preskok =
 
 d =
 
-   0.0056
+   55.8949
 
