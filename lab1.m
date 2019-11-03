@@ -75,10 +75,10 @@ xlim([-21 0])
 legend(); grid on;
 title('polovi')
 
-%ovde na osnovu slike moûemo da zaklju?imo koji su polovi dominantni
+%ovde na osnovu slike mo≈æemo da zaklju?imo koji su polovi dominantni
 
 s = tf('s');
-G41_aprox = 1/((s-p1(3))*(s-p1(4))); %nisam sigurna da li ovde treba brojilac da ostane
+G41_aprox = 1/((s-p1(3))*(s-p1(4))); 
 G42_aprox = 1/((s-p2(3))*(s-p2(4)));
 
 
